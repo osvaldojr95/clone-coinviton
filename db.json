@@ -1,0 +1,337 @@
+{
+  "Blusas": [
+    {
+      "id": 1,
+      "item": "Blusa de frio",
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/09/26/1632629319564855327742cf3ce956c6c8fe0bddd8_thumbnail_600x.webp",
+      "category": "Blusas",
+      "price": 25
+    },
+    {
+      "id": 2,
+      "item": "Blusa vermelha",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/11/01/1667267004a4f503909f78cf013ee4b0bed0770237_thumbnail_600x.webp",
+      "category": "Blusas",
+      "price": 40
+    },
+    {
+      "id": 3,
+      "item": "Blusa frio verde",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/01/19/16425646803b092b61af9824039c30e1a292a7e49b_thumbnail_600x.webp",
+      "category": "Blusas",
+      "price": 30
+    },
+    {
+      "id": 4,
+      "item": "Blusa bege",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/04/29/16511993454bb801ff3255511c6b9d46f867b9f005_thumbnail_600x.webp",
+      "category": "Blusas",
+      "price": 23
+    },
+    {
+      "id": 5,
+      "item": "Blusa vinho",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/04/29/165119934949b317d664e8c5b56533fe44deb0d16d_thumbnail_600x.webp",
+      "category": "Blusas",
+      "price": 50
+    },
+    {
+      "id": 6,
+      "item": "Blusa branca",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/04/14/1649930034995a8c524926c469e521cfbecf4a9aa9_thumbnail_600x.webp",
+      "category": "Blusas",
+      "price": 19
+    },
+    {
+      "id": 7,
+      "item": "Blusa preta",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/01/17/164238407025955f946fd15358b97167c5720867bc_thumbnail_600x.webp",
+      "category": "Blusas",
+      "price": 60
+    }
+  ],
+  "DetalhesBlusas": [
+    {
+      "id": 1,
+      "item": "Blusa de frio",
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/09/26/1632629319564855327742cf3ce956c6c8fe0bddd8_thumbnail_600x.webp",
+      "details": "Blusa de frio linda",
+      "qtd": 1,
+      "price": 25
+    },
+    {
+      "id": 2,
+      "item": "Blusa vermelha",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/11/01/1667267004a4f503909f78cf013ee4b0bed0770237_thumbnail_600x.webp",
+      "details": "Blusa vermelha linda",
+      "qtd": 1,
+      "price": 40
+    },
+    {
+      "id": 3,
+      "item": "Blusa frio verde",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/01/19/16425646803b092b61af9824039c30e1a292a7e49b_thumbnail_600x.webp",
+      "details": "Blusa de frio verde linda",
+      "qtd": 1,
+      "price": 30
+    },
+    {
+      "id": 4,
+      "item": "Blusa bege",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/04/29/16511993454bb801ff3255511c6b9d46f867b9f005_thumbnail_600x.webp",
+      "details": "Blusa bege linda",
+      "qtd": 1,
+      "price": 23
+    },
+    {
+      "id": 5,
+      "item": "Blusa vinho",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/04/29/165119934949b317d664e8c5b56533fe44deb0d16d_thumbnail_600x.webp",
+      "details": "Blusa vinho linda",
+      "qtd": 1,
+      "price": 50
+    },
+    {
+      "id": 6,
+      "item": "Blusa branca",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/04/14/1649930034995a8c524926c469e521cfbecf4a9aa9_thumbnail_600x.webp",
+      "details": "Blusa branca linda",
+      "qtd": 1,
+      "price": 19
+    },
+    {
+      "id": 7,
+      "item": "Blusa preta",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/01/17/164238407025955f946fd15358b97167c5720867bc_thumbnail_600x.webp",
+      "details": "Blusa preta linda",
+      "qtd": 7,
+      "price": 60
+    }
+  ],
+  "Calcas": [
+    {
+      "id": 8,
+      "item": "Calça preta",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/04/22/16505900065c071bb09fa22c5404e13446213cddf9_thumbnail_600x.webp",
+      "category": "Calcas",
+      "price": 30
+    },
+    {
+      "id": 9,
+      "item": "Calça bege",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/06/24/1656033873a4d2511684215e3cfc27918859bc61db_thumbnail_600x.webp",
+      "category": "Calcas",
+      "price": 40
+    },
+    {
+      "id": 10,
+      "item": "Calça marrom",
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/07/14/1626232522d139f55fabfdb7b7296d9b278792a873_thumbnail_600x.webp",
+      "category": "Calcas",
+      "price": 17
+    },
+    {
+      "id": 11,
+      "item": "Calça cinza",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/05/06/1651817835b9bbd2b7ba6682e3fbfcd2a67b5b42ca_thumbnail_600x.webp",
+      "category": "Calcas",
+      "price": 19
+    },
+    {
+      "id": 12,
+      "item": "Calça jeans",
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/11/08/1636348969bf4841c624686d6be45c63482cc9f51d_thumbnail_600x.webp",
+      "category": "Calcas",
+      "price": 32
+    },
+    {
+      "id": 13,
+      "item": "Calça xadrez",
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/09/18/1631949938947e1b9dccec47735832fa09bf8c6049_thumbnail_600x.webp",
+      "category": "Calcas",
+      "price": 27
+    },
+    {
+      "id": 14,
+      "item": "Calça verde",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/08/11/16602079221f36ff882efdc58bae57c7ecaec940e4_thumbnail_600x.webp",
+      "category": "Calcas",
+      "price": 13
+    }
+  ],
+  "DetalhesCalcas": [
+    {
+      "id": 8,
+      "item": "Calça preta",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/04/22/16505900065c071bb09fa22c5404e13446213cddf9_thumbnail_600x.webp",
+      "details": "Calça preta linda",
+      "qtd": 1,
+      "price": 30
+    },
+    {
+      "id": 9,
+      "item": "Calça bege",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/06/24/1656033873a4d2511684215e3cfc27918859bc61db_thumbnail_600x.webp",
+      "details": "Calça bege linda",
+      "qtd": 1,
+      "price": 40
+    },
+    {
+      "id": 10,
+      "item": "Calça marrom",
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/07/14/1626232522d139f55fabfdb7b7296d9b278792a873_thumbnail_600x.webp",
+      "details": "Calça marrom linda",
+      "qtd": 1,
+      "price": 17
+    },
+    {
+      "id": 11,
+      "item": "Calça cinza",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/05/06/1651817835b9bbd2b7ba6682e3fbfcd2a67b5b42ca_thumbnail_600x.webp",
+      "details": "Calça cinza linda",
+      "qtd": 1,
+      "price": 19
+    },
+    {
+      "id": 12,
+      "item": "Calça jeans",
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/11/08/1636348969bf4841c624686d6be45c63482cc9f51d_thumbnail_600x.webp",
+      "details": "Calça jean linda",
+      "qtd": 1,
+      "price": 32
+    },
+    {
+      "id": 13,
+      "item": "Calça xadrez",
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/09/18/1631949938947e1b9dccec47735832fa09bf8c6049_thumbnail_600x.webp",
+      "details": "Calça xadrez linda",
+      "qtd": 1,
+      "price": 27
+    },
+    {
+      "id": 14,
+      "item": "Calça verde",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/08/11/16602079221f36ff882efdc58bae57c7ecaec940e4_thumbnail_600x.webp",
+      "details": "Calça verde linda",
+      "qtd": 1,
+      "price": 13
+    }
+  ],
+  "Sapatos": [
+    {
+      "id": 15,
+      "item": "Coturno preto",
+      "img": "https://img.ltwebstatic.com/images3_pi/2020/09/24/1600936473b819a992689b59fd85b164ea9a4363eb_thumbnail_600x.webp",
+      "category": "Sapatos",
+      "price": 22
+    },
+    {
+      "id": 16,
+      "item": "Sapato marrom",
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/10/25/1635128693432d7e51c91e852073bfa7af49250111_thumbnail_600x.webp",
+      "category": "Sapatos",
+      "price": 25
+    },
+    {
+      "id": 17,
+      "item": "All stars",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/05/30/16538883084d0408f42b67223c3f8605c4217de138_thumbnail_600x.webp",
+      "category": "Sapatos",
+      "price": 60
+    },
+    {
+      "id": 18,
+      "item": "Sapatos rosas",
+      "img": "https://img.ltwebstatic.com/gspCenter/goodsImage/2022/10/28/2539682027_1030764/80A51DEBCA74137803F2A6E5E143B30D_thumbnail_600x.jpg",
+      "category": "Sapatos",
+      "price": 25
+    },
+    {
+      "id": 19,
+      "item": "Sapatos brancos",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/05/26/16535510950a24651454497109b9e5d7e0b43bb1e8_thumbnail_600x.webp",
+      "category": "Sapatos",
+      "price": 99
+    },
+    {
+      "id": 20,
+      "item": "Sapatos verdes",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/05/13/1652433943ae43f12c475f7314331887cdf690304a_thumbnail_600x.webp",
+      "category": "Sapatos",
+      "price": 100
+    }
+  ],
+  "DetalhesSapatos": [
+    {
+      "id": 15,
+      "item": "Coturno preto",
+      "img": "https://img.ltwebstatic.com/images3_pi/2020/09/24/1600936473b819a992689b59fd85b164ea9a4363eb_thumbnail_600x.webp",
+      "details": "Coturno preto lindo",
+      "qtd": 2,
+      "price": 22
+    },
+    {
+      "id": 16,
+      "item": "Sapato marrom",
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/10/25/1635128693432d7e51c91e852073bfa7af49250111_thumbnail_600x.webp",
+      "details": "Sapato marrom lindo",
+      "qtd": 1,
+      "price": 25
+    },
+    {
+      "id": 17,
+      "item": "All stars",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/05/30/16538883084d0408f42b67223c3f8605c4217de138_thumbnail_600x.webp",
+      "details": "All stars linda",
+      "qtd": 1,
+      "price": 60
+    },
+    {
+      "id": 18,
+      "item": "Sapatos rosas",
+      "img": "https://img.ltwebstatic.com/gspCenter/goodsImage/2022/10/28/2539682027_1030764/80A51DEBCA74137803F2A6E5E143B30D_thumbnail_600x.jpg",
+      "details": "Sapatos rosas lindos",
+      "qtd": 1,
+      "price": 25
+    },
+    {
+      "id": 19,
+      "item": "Sapatos brancos",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/05/26/16535510950a24651454497109b9e5d7e0b43bb1e8_thumbnail_600x.webp",
+      "details": "Sapatos brancos lindos",
+      "qtd": 1,
+      "price": 99
+    },
+    {
+      "id": 20,
+      "item": "Sapatos verdes",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/05/13/1652433943ae43f12c475f7314331887cdf690304a_thumbnail_600x.webp",
+      "details": "Sapatos verdes lindos",
+      "qtd": 1,
+      "price": 100
+    }
+  ],
+  "Cart": [
+    {
+      "id": "4",
+      "item": "Blusa bege",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/04/29/16511993454bb801ff3255511c6b9d46f867b9f005_thumbnail_600x.webp",
+      "price": 23,
+      "qtd": 1
+    },
+    {
+      "id": "2",
+      "item": "Blusa vermelha",
+      "img": "https://img.ltwebstatic.com/images3_pi/2022/11/01/1667267004a4f503909f78cf013ee4b0bed0770237_thumbnail_600x.webp",
+      "price": 40,
+      "qtd": 1
+    },
+    {
+      "id": "15",
+      "item": "Coturno preto",
+      "img": "https://img.ltwebstatic.com/images3_pi/2020/09/24/1600936473b819a992689b59fd85b164ea9a4363eb_thumbnail_600x.webp",
+      "price": 22,
+      "qtd": 2
+    }
+  ]
+}
